@@ -1,6 +1,6 @@
 /**
  * Worker class operates on a {Queue}
- * @constructor
+ * @constructor -- 
  */
 
 var Worker = function( config ){
