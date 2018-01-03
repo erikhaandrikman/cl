@@ -1,5 +1,5 @@
 /**
- * Woerker class operates on a {Queue}
+ * Worker class operates on a {Queue}
  * @constructor
  */
 
