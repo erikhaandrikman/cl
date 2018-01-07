@@ -1,7 +1,7 @@
 /**
  * Worker class operates on a {Queue}
  * @constructor ---------------- master
- */
+ ***/
 
 var Worker = function( config ){
     /**
